@@ -1,3 +1,12 @@
+basestation-core-melodic (0.1.1-bionic) stable; urgency=low
+
+  * Incrementing to melodic
+   - r1144: Create basestation-core-melodic
+   - r1145: Rename /etc/ros/fuerte to /etc/ros/melodic.
+   - r1146: Update configs to Melodic.
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Mon, 21 Sep 2020 00:22:42 -0700
+
 basestation-core-indigo (0.1.1-precise) stable; urgency=low
 
  -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Apr 2013 11:30:42 -0700

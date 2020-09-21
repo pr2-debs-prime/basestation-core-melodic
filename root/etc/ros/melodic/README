@@ -1,8 +1,8 @@
-This directory contains the ROS configuration for your basestation on Kinetic.
+This directory contains the ROS configuration for your basestation on Melodic.
 
 Files and their uses are listed below:
 
-/etc/ros/kinetic/setup.sh
+/etc/ros/melodic/setup.sh
 
  * Sets up the ROS environment.  This is typically a symlinked to from
    /etc/ros/setup.sh

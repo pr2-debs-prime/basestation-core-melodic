@@ -1,3 +1,3 @@
 #!/bin/sh
 
-. /opt/ros/kinetic/setup.sh
+. /opt/ros/melodic/setup.sh
